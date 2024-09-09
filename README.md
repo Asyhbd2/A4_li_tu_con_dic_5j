@@ -4,6 +4,7 @@ Ejemplos en Python sobre listas, tuplas, conjuntos, diccionarios
 - Codigo:
 - ![image](https://github.com/user-attachments/assets/1d918563-a9ab-4961-8efd-02c29ffd23bc)
 - Resultado:
-- ![image](https://github.com/user-attachments/assets/0b28e42d-4a93-4ae8-8f37-cb4bf582fa88)
+- ![image](https://github.com/user-attachments/assets/b75e577b-c458-444d-9ee6-77487d4b0dc0)
+
 
 
